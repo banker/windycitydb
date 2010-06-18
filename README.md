@@ -1,4 +1,4 @@
-= WindyCityDB Dataset for MongoDB
+# WindyCityDB Dataset for MongoDB
 
 This is a representation of the Stackoverflow dataset posted at [http://github.com/chicagoruby/Windy-City-DB-Dataset].
 
